@@ -32,7 +32,7 @@ pyramid
 #netcdf-out
 #ogr-wfs
 #ogr-wps
-#vectortiles
+vectortiles
 #xslt
 
 ############
@@ -52,7 +52,7 @@ pyramid
 #charts
 control-flow
 #querylayer # Cross Layer Filtering
-#css
+css
 #cas
 #monitor
 #importer
