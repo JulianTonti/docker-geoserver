@@ -17,7 +17,7 @@
 ####################
 #gdal
 #grib
-pyramid
+#pyramid
 #imagemosaic-jdbc
 #jp2k
 #netcdf
@@ -50,7 +50,7 @@ vectortiles
 # Miscellaneouss #
 ##################
 #charts
-control-flow
+#control-flow
 #querylayer # Cross Layer Filtering
 css
 #cas
